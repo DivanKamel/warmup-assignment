@@ -1,3 +1,6 @@
+// Delivery Driver Shift Tracker
+// Student: Divan Kamel
+
 const fs = require("fs");
 
 // Function 1 getShiftDuration(startTime,endTime)
